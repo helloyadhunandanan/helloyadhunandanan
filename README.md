@@ -5,7 +5,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=helloyadhunandananYOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=helloyadhunandanan&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ---
