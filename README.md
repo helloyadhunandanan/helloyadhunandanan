@@ -1,9 +1,11 @@
+<!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋+I'm+Yadhu Nandanan;B.Tech+CSE+Student;Web+Developer+|+UPSC+Aspirant;Infrastructure+Lover🇮🇳;Mission+LBSNAA🚩&center=true&size=28" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋,+I+am+YourName;B.Tech+CSE+Student;Web+Developer+and+UPSC+Aspirant;Infrastructure+Lover+🇮🇳;Mission+LBSNAA+🚩&center=true&size=28">
 </h1>
 
+<!-- Profile views counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -48,10 +50,10 @@
 
 ---
 
-### 🐍 Contribution Graph (Snake Animation):
+### 🐍 Contribution Snake:
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
