@@ -1,7 +1,7 @@
-<!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Yadhu Nandanan;Welcome+to+my+GitHub+Profile!;I+love+Coding+and+Learning+New+Tech;Let's+Connect+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+Welcome+to+My+GitHub!;I+am+YourName+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;B.Tech+CSE+Student+%F0%9F%8C%90;Passionate+Programmer+%F0%9F%94%A5;Loves+to+Build+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Let's+Connect+and+Code+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
+
 
 <!-- Visitor Counter -->
 <p align="center">
