@@ -72,3 +72,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+### 🚩 Inspirational Quote:
+
+<p align="center">
+  <b>“Where there is Dharma, there is Victory”</b> <br>
+  <i>- Jai Hind 🇮🇳</i>
+</p>
