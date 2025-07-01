@@ -5,8 +5,9 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=helloyadhunandanan&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=helloyadhunandanan&label=👀+Profile+Views&color=FF69B4&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 ---
 
