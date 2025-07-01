@@ -55,8 +55,8 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
-<a href="https://twitter.com/yourXusername" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo" />
+<a href="https://twitter.com/thetrulyyn" target="_blank">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo" />
 </a>
 
 
