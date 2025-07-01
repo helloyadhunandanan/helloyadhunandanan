@@ -49,6 +49,10 @@
   <a href="https://leetcode.com/yourleetcodeusername/" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+
+  <a href="https://twitter.com/yourXusername" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Twitter" />
+  </a>
 </p>
 
 
