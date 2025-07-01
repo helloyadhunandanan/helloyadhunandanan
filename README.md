@@ -13,7 +13,6 @@
 
 ---
 
-## 🛠️ Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -29,27 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloyadhunandanan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=helloyadhunandanan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyadhunandanan&layout=compact&theme=tokyonight" />
-</p>
-
 ---
-
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helloyadhunandanan&theme=radical&no-frame=true&no-bg=true" />
-</p>
 
 ---
 
@@ -68,12 +47,12 @@
   <a href="https://linkedin.com/in/yourlinkedinusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourinstagramusername" target="_blank">
+  <a href="https://instagram.com/nanduforryou" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-### 🚩 Inspirational Quote:
+### Inspirational Quote:
 
 <p align="center">
   <b>“Where there is Dharma, there is Victory”</b> <br>
