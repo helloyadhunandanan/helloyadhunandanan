@@ -29,25 +29,26 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedinusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://instagram.com/yourinstagramusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="40" />
   </a>
 
-  <a href="https://leetcode.com/yourleetcodeusername/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://instagram.com/yourinstagramusername" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="150" height="40" />
+  </a>
+
+  <a href="mailto:your.email@example.com" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="150" height="40" />
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150" height="40" />
+  </a>
+
+  <a href="https://leetcode.com/yourleetcodeusername/" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" width="150" height="40" />
   </a>
 </p>
+
 
 
 ### Inspirational Quote:
