@@ -5,8 +5,10 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=helloyadhunandanan&label=👀+Profile+Views&color=FF69B4&style=for-the-badge" alt="Profile Views" />
+	<br>Visitor count<br>
+	<img src="https://profile-counter.glitch.me/adarshmadhusoodanan/count.svg" />
 </p>
+
 
 
 ---
