@@ -25,7 +25,7 @@
     alt="example" />
 </p>
 ---
-## Connect with me:
+## 📫 Connect with me:
 
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedinusername" target="_blank">
