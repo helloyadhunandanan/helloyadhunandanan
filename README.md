@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="mailto:your.helloyadhunandanan@gmail.com" target="_blank" style="margin-left: 10px;">
+  <a href="mailto:helloyadhunandanan@gmail.com" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
