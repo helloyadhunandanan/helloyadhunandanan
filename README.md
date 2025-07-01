@@ -53,8 +53,9 @@
 ## 🐍 Contribution Snake (Optional):
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/helloyadhunandanan/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/helloyadhunandanan/helloyadhunandanan/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
