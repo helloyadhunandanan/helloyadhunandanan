@@ -56,8 +56,10 @@
   </a>
 
 <a href="https://twitter.com/yourXusername" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Twitter" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo" />
 </a>
+
+
 </p>
 
 
