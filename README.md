@@ -45,7 +45,7 @@
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helloyadhunandananE&theme=radical&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=helloyadhunandanan&theme=radical&no-frame=true&no-bg=true" />
 </p>
 
 ---
