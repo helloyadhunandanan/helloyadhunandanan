@@ -2,18 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+Welcome+to+My+GitHub!;I+am+Yadhu+Nandanan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;B.Tech+CSE+Student+%F0%9F%8C%90;Passionate+Programmer+%F0%9F%94%A5;Loves+to+Build+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Let's+Connect+and+Code+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-
 <!-- Visitor Counter -->
 <p align="center">
 	<br>Profile Views<br>
 	<img src="https://profile-counter.glitch.me/helloyadhunandanan/count.svg" />
 </p>
-
-
-
 ---
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -25,20 +19,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
----
-
 ---
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
 ---
-
-## 📫 Connect with me:
+## Connect with me:
 
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedinusername" target="_blank">
