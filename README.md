@@ -39,12 +39,12 @@
 <h3 align="center">📡 NETRA SURVEILLANCE REPORT</h3>
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&bg_color=050a0e&title_color=FF9933&text_color=e0f2f1&icon_color=00ff41&border_color=4B5320&hide_border=false" />
+  <a href="https://github.com/helloyadhunandanan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloyadhunandanan&show_icons=true&locale=en&bg_color=050a0e&title_color=FF9933&text_color=e0f2f1&icon_color=00ff41&border_color=4B5320&hide_border=false" />
   </a>
   
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=050a0e&title_color=FF9933&text_color=e0f2f1&icon_color=00ff41&border_color=4B5320&hide_border=false" />
+  <a href="https://github.com/helloyadhunandanan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyadhunandanan&layout=compact&bg_color=050a0e&title_color=FF9933&text_color=e0f2f1&icon_color=00ff41&border_color=4B5320&hide_border=false" />
   </a>
 </div>
 
