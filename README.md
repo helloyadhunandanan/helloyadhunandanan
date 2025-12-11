@@ -40,11 +40,11 @@
 
 <div align="center">
   <a href="https://github.com/helloyadhunandanan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloyadhunandanan&show_icons=true&locale=en&bg_color=050a0e&title_color=FF9933&text_color=e0f2f1&icon_color=00ff41&border_color=4B5320&hide_border=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloyadhunandanan-6952&show_icons=true&locale=en&bg_color=050a0e&title_color=FF9933&text_color=e0f2f1&icon_color=00ff41&border_color=4B5320&hide_border=false" />
   </a>
   
   <a href="https://github.com/helloyadhunandanan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyadhunandanan&layout=compact&bg_color=050a0e&title_color=FF9933&text_color=e0f2f1&icon_color=00ff41&border_color=4B5320&hide_border=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyadhunandanan-6952&layout=compact&bg_color=050a0e&title_color=FF9933&text_color=e0f2f1&icon_color=00ff41&border_color=4B5320&hide_border=false" />
   </a>
 </div>
 
@@ -63,7 +63,7 @@
 
 <h3 align="center">🐍 TACTICAL MOVEMENT</h3>
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=YOUR_USERNAME&color_snake=FF9933&color_dots=050a0e&bg_color=050a0e" />
+  <img src="https://github-readme-snake.vercel.app/api?username=helloyadhunandanan&color_snake=FF9933&color_dots=050a0e&bg_color=050a0e" />
 </div>
 
 <br>
@@ -72,7 +72,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%">
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=NETRA+SURVEILLANCE&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=helloyadhunandanan&label=NETRA+SURVEILLANCE&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
   
   <br><br>
   <samp>END OF TRANSMISSION // JAI HIND 🇮🇳</samp>
