@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3> 🇮🇳 JAI HIND | WELCOME TO THE BASE 🇮🇳 </h3>
+  <h3> WELCOME TO THE BASE  </h3>
 </div>
 
 <p align="center">
